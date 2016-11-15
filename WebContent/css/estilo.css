@@ -1,0 +1,85 @@
+@CHARSET "ISO-8859-1";
+
+h1 {
+	
+	font-family: fantasy;
+	text-align: center;
+	padding-top: 50px;
+}
+
+form{
+	
+	text-align: center;
+	padding-top: 30px;
+}
+
+div h5 {
+	text-align: right;
+	font-family:monospace;
+	padding-right: 20px;
+}
+.text-center {
+	padding-top: 40px;
+}
+#botongalleta{
+    color: #fff;
+    background-color: #357935;
+    border-color: #398239;
+}
+#botonarroz{
+	color: #fff;
+    background-color: #357935;
+    border-color:  #398239;
+}
+#botoncereal{
+	color: #fff;
+    background-color: #357935;
+    border-color:  #398239;
+}
+#hueco{
+	background-color: #008000;
+}
+#divprecio{
+	font-family: fantasy;
+}
+
+#divdescripcion{
+	text-align: center;
+	background-color: #008000;
+	color: white;
+	font-size: x-large
+}
+
+#divprecio{
+	text-align: center;
+	color: red;
+	
+}
+h2{
+	text-align: center;
+}
+
+
+#botonginebra{
+    color: #fff;
+    background-color: #357935;
+    border-color: #398239;
+}
+#botonmuesli{
+	color: #fff;
+    background-color: #357935;
+    border-color:  #398239;
+}
+#botoncolacao{
+	color: #fff;
+    background-color: #357935;
+    border-color:  #398239;
+}
+
+#formulariosesion{
+	padding-left:970px;
+}
+
+div divprecio{
+	
+}
